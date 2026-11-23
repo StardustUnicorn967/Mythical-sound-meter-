@@ -1,0 +1,1 @@
+{"name":"Mythical Sound Detector","short_name":"Mythical Sound","description":"Live sound level in dB, B, unB and arB","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#0c1421","theme_color":"#101a29","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
